@@ -16,8 +16,8 @@ function paste(e) {
 }
 
 window.onload = function () {
-    var textarea = document.getElementsByTagName('textarea')[0];
-    textarea.onpaste = paste;
-    textarea.focus();
+	var textarea = document.getElementsByTagName('textarea')[0];
+	textarea.onpaste = paste;
+	textarea.focus();
 	document.execCommand('paste');
 }

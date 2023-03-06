@@ -1,5 +1,5 @@
 {
-  "browser_action": {
+  "action": {
     "default_title": "Pasty",
     "default_icon": "pasty48.png",
     "default_popup": "popup.html"
@@ -9,9 +9,9 @@
     "128": "pasty128.png",
     "48": "pasty48.png"
   },
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Pasty",
-  "version": "1.5",
+  "version": "1.6",
   "permissions": ["clipboardRead"],
   "options_page": "options.html"
 }
