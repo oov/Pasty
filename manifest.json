@@ -12,6 +12,5 @@
   "manifest_version": 3,
   "name": "Pasty",
   "version": "1.7",
-  "permissions": ["clipboardRead"],
-  "options_page": "options.html"
+  "permissions": ["clipboardRead"]
 }
