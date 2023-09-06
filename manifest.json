@@ -10,7 +10,7 @@
       "strict_min_version": "109.0"
     }
   },
-  "description": "Create tabs from clipboard URL list",
+  "description": "Create tabs from a clipboard URL list",
   "icons": {
     "128": "pasty128.png",
     "48": "pasty48.png"
