@@ -4,6 +4,12 @@
     "default_icon": "pasty48.png",
     "default_popup": "popup.html"
   },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{99489097-f01c-473b-ac99-ae706b5b7b96}",
+      "strict_min_version": "109.0"
+    }
+  },
   "description": "Create tabs from clipboard URL list",
   "icons": {
     "128": "pasty128.png",
@@ -11,6 +17,6 @@
   },
   "manifest_version": 3,
   "name": "Pasty",
-  "version": "1.7",
+  "version": "1.8",
   "permissions": ["clipboardRead"]
 }
