@@ -19,6 +19,6 @@ Install
 - For Google Chrome  
 https://chrome.google.com/webstore/detail/pasty/hdjihnnclpjhfdbbinmgoiehhoehhlgf
 - For Mozilla Firefox  
-https://addons.mozilla.org/ja/firefox/addon/pasty/
+https://addons.mozilla.org/en-US/firefox/addon/pasty/
 - For Microsoft Edge  
 https://microsoftedge.microsoft.com/addons/detail/pasty/cdhohafejjijblbiipmpheongfkgckgn
